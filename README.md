@@ -1,6 +1,6 @@
 # Preppin-Data-Challenge----Pokmon-Evolution-Stats
 
-using PYTHON and SQL to complete the Preppin' Data Challenge -- Call Center Agent Metrics
+using PYTHON and SQL to complete the Preppin' Data Challenge -- Pokmon Evolution Stats
 
 This challenge is from Tableau weekly Preppin' Data blog.
 
